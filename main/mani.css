@@ -87,4 +87,5 @@ color: #83888F;
 .nav__link:hover {
     color: red;
     text-decoration: underline;
+    font-size: 100px;
 }
